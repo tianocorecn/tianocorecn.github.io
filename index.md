@@ -38,7 +38,7 @@ title: 欢迎
   </li>
 {% endfor %}
   <li style="border-bottom: none;">
-    Read more <a href="news/">社区新闻 »</a><br>
+    阅读更多 <a href="news/">社区新闻 »</a><br>
   </li>
 </ul>
 
