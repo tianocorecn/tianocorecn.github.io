@@ -13,7 +13,7 @@ title: 欢迎
 
 本开源社区围绕英特尔的[UEFI]({{wiki}}/UEFI)实现开源部分展开。我们的[EDK II]是一个关于UEFI和PI规范的现代化、功能丰富、跨平台的固件开发环境。我们希望你能深入探索我们的工作、感动于Tianocore(当然还有Tianocore非官方中文)，并为社区的发展添砖加瓦。
 
-本站是[tianocore]({http://www.tianocore.org})的非官方中文站，如果需要访问原始的英语版本官方站，请访问[tianocore]({http://www.tianocore.org})。
+本站是[tianocore](http://www.tianocore.org)的非官方中文站，如果需要访问原始的英语版本官方站，请访问[tianocore](http://www.tianocore.org)。
 <div id="buttons">
   <a href="{{baseurl}}/contrib/">如何贡献</a>
   <a href="{{baseurl}}/contrib/getting-started.html">着手第一步</a>
