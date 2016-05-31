@@ -1,34 +1,28 @@
 ---
 layout: default
-title: Getting Started
+title: 快速入门
 ---
 {% include site-links.md %}
 
-TianoCore is a group of open source projects related to [UEFI] and
-the Intel&reg; Platform Innovation Framework for UEFI (AKA Tiano).
+TianoCore是一组开源项目，这些项目均与[UEFI]及英特尔&reg;UEFI平台创新框架（也称之为Tiano）有关。
 
-If you are interested in being involved with our community, we suggest:
+如果你有兴趣参与到我们社区，我们建议：
 
-* Downloading and using our open source code
-  * Look over our [Projects]({{wiki}}/Additional-Projects) section 
-  * For [EDK II] projects, checkout the
-    [Github Quick Start]({{wiki}}/SourceForge-to-Github-Quick-Start) and
-    [Getting Started for Developers]({{wiki}}/Getting Started with EDK II)
-    pages
-* Join the [Mailing Lists]({{wiki}}/Mailing Lists) for one or more of
-  our projects
+* 下载并使用我们的开源代码
+  * 参考 [项目]({{wiki}}/Additional-Projects) 章节 
+  * 对于 [EDK II] 项目, 请参考
+    [Github快速入门指南]({{wiki}}/SourceForge-to-Github-Quick-Start) 及
+    [开发者快速入门指南]({{wiki}}/Getting Started with EDK II)
+* 加入[邮件列表]({{wiki}}/Mailing Lists) 以了解更多我们的项目
 
-You may be required to create an account to participate in certain
-areas of our community.
+你可能需要创建一个帐户以参与我们社区的特定区……
 
-The [GitHub Help](https://help.github.com/) page provides step-by-step
-instructions for user registration and basic features supported by
-GitHub.
+[GitHub帮助](https://help.github.com/)页面，提供了关于用户注册及Github基本特点的详细介绍。
 
 <br>
-<span style="font-size: 125%">_Join Us Today!_</span>
+<span style="font-size: 125%">_加入我们，就在今天!_</span>
 
-## Add-in Hardware Developers
+## Add-in Hardware 开发人员
 
 * See [UEFI Driver Developer Resources with EDK
   II]({{wiki}}/Driver-Developer) Support UEFI driver development by
