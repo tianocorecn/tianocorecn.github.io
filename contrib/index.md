@@ -16,9 +16,6 @@ UEFI开发者主要关注于咱们社区，但如果对使用UEFI感兴趣，我
 
 如果你是开发者，并且愿意为我们社区[[贡献代码]]：
 
-* Review our [Member Types]({{wiki}}/Member%20Types) which documents
-  requirements for contributing code
-* Review our [Tasks]({{wiki}}/Tasks) page which documents some open
-  projects
-* Review our [Code Style]({{wiki}}/Code%20Style) page which documents
-  coding styles and commit log styles
+* 请查阅 [成员类型]({{wiki}}/Member%20Types)，这个页面列明了关于贡献代码的要求。
+* 请查阅 [任务]({{wiki}}/Tasks) 页面，这个页面列出了一些开放的项目。
+* 请查阅 [代码风格]({{wiki}}/Code%20Style)页面，这个页面讲述了代码风格及提交日志的格式。
