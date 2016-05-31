@@ -1,27 +1,20 @@
 ---
 layout: default
-title: How to Contribute
+title: 如何贡献
 ---
 {% include site-links.md %}
 
-Our community enables [UEFI] firmware and tools through various open
-source projects.
+我们的社区通过多种开源项目使[UEFI]固件和工具得以实现。
 
-Most of our efforts are currently related to the [EDK II] project, so
-if you are developer, then this is a good place to start contributing
-to our community.
+我们当前大部分工作都与[EDK II]项目有关，因此，如果你是一个开发者，这将是一个你能为我们社区做贡献的绝佳所在。
 
-UEFI developers are the primary focus of our community, but if you are
-interested in trying to use UEFI, then we have a page on how to [Start
-using UEFI]({{wiki}}/start-using-UEFI).
+UEFI开发者主要关注于咱们社区，但如果对使用UEFI感兴趣，我们有一个页面讲述如何[UEFI使用入门]({{wiki}}/start-using-UEFI)。
 
-There are several ways to participate in our community. Anyone can
-join our [Mailing Lists]({{wiki}}/Mailing%20Lists) to discuss UEFI
-related topics.
+有多种方式加入我们的社区。任何人都可以加入我们的[邮件列表]({{wiki}}/Mailing%20Lists)来讨论UEFI相关话题。
 
-## Developers
+## 开发者
 
-If you are a developer, and would like to make [[Code Contributions]] to our community:
+如果你是开发者，并且愿意为我们社区[[贡献代码]]：
 
 * Review our [Member Types]({{wiki}}/Member%20Types) which documents
   requirements for contributing code
