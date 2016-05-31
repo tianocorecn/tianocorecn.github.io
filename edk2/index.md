@@ -5,37 +5,36 @@ redirect_from: "/edk2.html"
 ---
 {% include site-links.md %}
 
-EDK II is a modern, feature-rich, cross-platform firmware development
-environment for the UEFI and PI specifications.
+EDK II是一个现代化、富有特点的跨平台UEFI及PI规范固件开发环境。
 
-#### License information:  
+#### 许可证信息： 
 [BSD](http://www.opensource.org/licenses/bsd-license.php)
 
 
-#### Source repositories:  
-* edk2 main repository - [https://github.com/tianocore/edk2](https://github.com/tianocore/edk2)  
-* staging repository - [https://github.com/tianocore/edk2-staging](https://github.com/tianocore/edk2-staging)  
-* [more » ](source.html)  
+#### 源代码仓库： 
+* edk2主仓库 - [https://github.com/tianocore/edk2](https://github.com/tianocore/edk2)  
+* 分级仓库 - [https://github.com/tianocore/edk2-staging](https://github.com/tianocore/edk2-staging)  
+* [更多仓库 » ](source.html)  
 
-#### Community:    
-* email {[edk2-devel]({{wiki}}/Edk2-devel)}
+#### 社区   
+* 邮件 {[edk2-devel]({{wiki}}/Edk2-devel)}
 * irc {\#edk2 on [www.oftc.net](http://www.oftc.net/), [setup](http://www.oftc.net/NickServ/CertFP/), [web client](http://webchat.oftc.net/?channels=edk2)}
 
 #### Bug/feature tracking:  
 [GitHub](https://github.com/tianocore/edk2/issues)
 
-#### Stable releases: 
+#### 稳定发行版本：
 [UDK2010], [UDK2014], [UDK2015]
 
 #### Important Information
 
-* [Getting Started for Developers]({{wiki}}/Getting Started with EDK II)
-* [Packages]({{wiki}}/EDKII_Packages)
-* [Open Tasks]({{wiki}}/Tasks)
-* [Code Style]({{wiki}}/Code-Style)
-* [EDK II Documents]({{baseurl}}/docs/EDK_II_Documents.html)
+* [开发人员快速入门指南]({{wiki}}/Getting Started with EDK II)
+* [软件包]({{wiki}}/EDKII_Packages)
+* [开放任务]({{wiki}}/Tasks)
+* [代码风格]({{wiki}}/Code-Style)
+* [EDK II文档]({{baseurl}}/docs/EDK_II_Documents.html)
 
 #### Related Information
 
-* [Start using UEFI]({{wiki}}/Start_using_UEFI)
-* [Overview]({{wiki}}/EDK_II_Overview)
+* [UEFI使用入门]({{wiki}}/Start_using_UEFI)
+* [EDK II概要]({{wiki}}/EDK_II_Overview)
