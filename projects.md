@@ -10,7 +10,7 @@ EDK II 项目
 </font>
 </MTMarkdownOptions>
 
-一个现代化、富有特点的跨平台[UEFI](http://uefi.org.cn)及PI规范固件开发环境。点击查看<a href="{{baseurl}}/docs/EDK_II_Documents.html">EDK II 文档</a> 与 [EDK II Specifications]({{wiki}}/EDK II 规范)。
+一个现代化、富有特点的跨平台[UEFI](http://uefi.org.cn)及PI规范固件开发环境。点击查看<a href="{{baseurl}}/docs/EDK_II_Documents.html">EDK II 文档</a> 与 [EDK II规范]({{wiki}}/EDK II 规范)。
 
 
 * [UDK2015]({{baseurl}}/udk/udk2015/ "UEFI Development Kit 2015") 是我们的[EDK II]({{baseurl}}/edk2)项目移植的一个稳定发行版。 
