@@ -5,11 +5,11 @@ title: UDK2015
 
 {% include site-links.md %}
 
-UDK2015 is a stable release of portions of the [EDK II] project.
+UDK2015 是[EDK II]项目的一个稳定移植版本。
 <br>
-Link for  Previous UDK2014 releases <a href="{{baseurl}}/udk2014/Archive/">UDK2014 Archive</a>  
+前一版本UDK2014的链接<a href="{{baseurl}}/udk2014/Archive/">UDK2014 Archive</a>。
 
-If you have questions please email the [edk2-devel] email list.
+如果您有问题，请邮件联系[edk2-devel]邮件列表。
 
 
 
@@ -20,7 +20,7 @@ If you have questions please email the [edk2-devel] email list.
   <MTMarkdownOptions output='html4'>
     <th colspan="3" style="background-color:#a9c6dd"> 
      
-      <font color="#0066FF" size="4" > UDK2015 Releases </font>
+      <font color="#0066FF" size="4" > UDK2015发行版 </font>
      
      </th>
        </MTMarkdownOptions>
@@ -34,45 +34,44 @@ If you have questions please email the [edk2-devel] email list.
        
         
     </th>
-    <th> What is it? </th>
-    <th> What’s in the package? </th>
+    <th> 它是啥？ </th>
+    <th> 这包里有啥？ </th>
   </tr>
 
   <tr>
     <td>
       w/ WorkSpace Expanded .zip<br/>
       Release <b>Sept 29, 2015</b><br/>
-      <a href="https://github.com/tianocore/udk/releases/download/UDK2015/UDK2015-ReleaseNotes-MyWorkSpace.txt">Release Notes</a> <br/>
+      <a href="https://github.com/tianocore/udk/releases/download/UDK2015/UDK2015-ReleaseNotes-MyWorkSpace.txt">发行注记</a> <br/>
       
     </td>
     <td>
-      <p>UEFI development Kit (UDK) 2015 (UDK2015) Release (Complete zip of all packages and documentation where packages are expanded to MyWorkSpace Directory)<br/></p>
-      <p>Based on svn version:<br/></p>
+      <p>UEFI开发包(UDK) 2015版 (UDK2015) (Complete zip of all packages and documentation where packages are expanded to MyWorkSpace Directory)<br/></p>
+      <p>基于SVN版本：<br/></p>
       <p><a class="externallink" href="https://svn.code.sf.net/p/edk2/code/branches/UDK2015" rel="nofollow" title="https://svn.code.sf.net/p/edk2/code/branches/UDK2015">https://svn.code.sf.net/p/edk2/code/branches/UDK2015</a> : r18552<br/>
       <a class="externallink" href="https://svn.code.sf.net/p/edk2-fatdriver2/code/trunk/FatPkg" rel="nofollow" title="https://svn.code.sf.net/p/edk2-fatdriver2/code/trunk/FatPkg">https://svn.code.sf.net/p/edk2-fatdriver2/code/trunk/FatPkg</a>: r96<br/></p>
-      <p><b>How to Build</b><br/>
-      <a href="{{wiki}}/UDK2014_How-to-Build" title="UDK2014_How-to-Build">How to Build</a> UDK2014 Release<br/></p>
-      <p><b>Features Summary:</b><br/>
-      See <a class="externallink" href="https://github.com/tianocore/udk/releases/download/UDK2015/UDK2015-features.txt" rel="nofollow" title="https://github.com/tianocore/udk/releases/download/UDK2015/UDK2015-features.txt">Release Notes Features</a><br/></p>
-      <p><b>Supported OS and Build Environments</b></p>
+      <p><b>如何编译</b><br/>
+      <a href="{{wiki}}/UDK2014_How-to-Build" title="UDK2014_How-to-Build">如何编译</a> UDK2014 版<br/></p>
+      <p><b>功能摘要：</b><br/>
+      See <a class="externallink" href="https://github.com/tianocore/udk/releases/download/UDK2015/UDK2015-features.txt" rel="nofollow" title="https://github.com/tianocore/udk/releases/download/UDK2015/UDK2015-features.txt">发行注记·功能</a><br/></p>
+      <p><b>支持的操作系统及编译环境</b></p>
 
       <ul>
-        <li><a href="{{wiki}}/Using_EDK_II_with_Native_GCC" title="Using EDK II with Native GCC">Using newer versions of Linux</a> with Native GCC 4.x </li>
-        <li><a href="{{wiki}}/Windows-systems" title="Windows systems">Windows systems</a></li>
+        <li><a href="{{wiki}}/Using_EDK_II_with_Native_GCC" title="Using EDK II with Native GCC">使用的新版本Linux</a>装有本地GCC 4.x </li>
+        <li><a href="{{wiki}}/Windows-systems" title="Windows systems">Windows系统</a></li>
         <li><a href="{{wiki}}/Xcode" title="Xcode">Xcode Mac OS X</a></li>
-        <li><a href="{{wiki}}/Unix-like_systems" title="Unix-like systems">Unix-like systems</a> (For older Linux distributions, or using Cygwin or Mac OS X)</li></ul>
+        <li><a href="{{wiki}}/Unix-like_systems" title="Unix-like systems">Unix类系统</a> (用于早期Linux发行版，或是使用Cygwin或Mac OS X)</li></ul>
     </td>
     <td>
       <p>(UDK2015)<br/></p>
       
-      <p><a class="externallink" href="https://github.com/tianocore/udk/releases/download/UDK2015/UDK2015-Fileslist.txt" rel="nofollow" title="https://github.com/tianocore/udk/releases/download/UDK2015/UDK2015-Fileslist.txt">File List</a>
-      Of Entire Release .zip </p><hr/>
-      <p>Notes UDK2015 <br/>
-      Feature details : <br/>
-      <a class="externallink" href="https://github.com/tianocore/udk/releases/download/UDK2015/UDK2015.Notes.zip" rel="nofollow" title="https://github.com/tianocore/udk/releases/download/UDK2015/UDK2015.Notes.zip">Download All</a></p><hr/>
-      <p>Documents<br/>
+      <p>整个发行包 .zip <a class="externallink" href="https://github.com/tianocore/udk/releases/download/UDK2015/UDK2015-Fileslist.txt" rel="nofollow" title="https://github.com/tianocore/udk/releases/download/UDK2015/UDK2015-Fileslist.txt">文件列表</a> </p><hr/>
+      <p>UDK2015注记<br/>
+      功能详述：<br/>
+      <a class="externallink" href="https://github.com/tianocore/udk/releases/download/UDK2015/UDK2015.Notes.zip" rel="nofollow" title="https://github.com/tianocore/udk/releases/download/UDK2015/UDK2015.Notes.zip">下载全部</a></p><hr/>
+      <p>文档<br/>
       
-      <a class="externallink" href="https://github.com/tianocore/udk/releases/download/UDK2015/UDK2015.Documents.zip" rel="nofollow" title="https://github.com/tianocore/udk/releases/download/UDK2015/UDK2015.Documents.zip">Download All</a><br/></p>
+      <a class="externallink" href="https://github.com/tianocore/udk/releases/download/UDK2015/UDK2015.Documents.zip" rel="nofollow" title="https://github.com/tianocore/udk/releases/download/UDK2015/UDK2015.Documents.zip">下载全部</a><br/></p>
       
     </td>
   </tr>
@@ -80,23 +79,23 @@ If you have questions please email the [edk2-devel] email list.
   <tr>
     <th width="220">
       <MTMarkdownOptions output='html4'>
-      <font color="#0066FF">EDK II Specifications</font>
+      <font color="#0066FF">EDK II规范</font>
       </MTMarkdownOptions>
     </th>
-    <th width="220">What is it?</th>
+    <th width="220">它是啥？</th>
     <th width="220"></th>
   </tr>
 
   <tr>
-    <td><p>Version 1.24 and 1.25 </p>
+    <td><p>1.24 及 1.25版 </p>
        </td>
     <td>
-      <p><a href="{{wiki}}/EDK-II-Specifications" title="EDK-II-Specifications">UDK2015 EDK II v1.24-1.25 specifications </a></p>
-      Link to EDK II Specifications page 
+      <p><a href="{{wiki}}/EDK-II-Specifications" title="EDK-II-Specifications">UDK2015 EDK II v1.24-1.25 规范 </a></p>
+      到EDK II规范页面的链接。 
       <p>
-      These documents describe the EDK II build information for the following (Build, DEC, DSC, FDF and INF) file formats and it contains the Errata updates (version 1.24 and 1.25) that are available with the UDK2015 release.  See details in the Revision History in each of the individual documents for more details.</p>
+      这此文档介绍了EDK II的编译信息：编译，DEC、DSC、FDF及INF文件格式；它还包含了可用的UDK2015版本的勘误更新（1.24及1.25版）。详见版本历史，包含于每一个独立文档中。</p>
       <ul>
-        <li>Update July-Aug, 2015 V 1.24 & 1.25 </li>
+        <li>2015年7月-8月更新，V 1.24 & 1.25 </li>
         
       </ul>
     </td>
@@ -106,18 +105,18 @@ If you have questions please email the [edk2-devel] email list.
   <tr>
     <th width="220">
     <MTMarkdownOptions output='html4'>
-      <font color="#0066FF">Documents</font>
+      <font color="#0066FF">文档</font>
       </MTMarkdownOptions>
       
     </th>
-    <th width="220"> What is it? </th>
-    <th width="220"> What’s in the Download? </th>
+    <th width="220"> 它是啥？ </th>
+    <th width="220"> 下载的内容都包含啥？</th>
   </tr>
 
   <tr>
     <td>
    BRANCH
-      <p><a class="externallink" href="https://github.com/tianocore/udk/releases/download/UDK2015/UDK2015.Documents.zip" rel="nofollow" title="https://github.com/tianocore/udk/releases/download/UDK2015/UDK2015.Documents.zip">Download All CHM/HTMLs</a></p>
+      <p><a class="externallink" href="https://github.com/tianocore/udk/releases/download/UDK2015/UDK2015.Documents.zip" rel="nofollow" title="https://github.com/tianocore/udk/releases/download/UDK2015/UDK2015.Documents.zip">下载全部CHM/HTMLs</a></p>
       
     </td>
     <td>
